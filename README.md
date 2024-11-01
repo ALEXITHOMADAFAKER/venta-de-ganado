@@ -118,11 +118,11 @@
   
   <audio controls> <source src="señorita.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  
-   <img src="chino.gif" width="400" height="200"/>
+   <img src="balmore.gif" width="400" height="200"/>
    <img src="balmore.gif"width="400" height="200"/>
 
      <video width="600" height="400" controls>
-    <source src="ganado.mp4" type="video/mp4">
+    <source src="ganado.MP4" type="video/mp4">
        </video>
     
 	<a href="Base Access China.html"> Registros  </a> <br> 
