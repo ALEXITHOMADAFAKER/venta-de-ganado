@@ -119,6 +119,7 @@
   <audio controls> <source src="señorita.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  
    <img src="balmore.gif" width="400" height="200"/>
+   <img src="balmore.gif" width="400" height="200"/>
    <img src="balmore.gif"width="400" height="200"/>
 
      <video width="600" height="400" controls>
