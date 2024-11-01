@@ -120,7 +120,7 @@
  
    <img src="balmore.gif" width="400" height="200"/>
    <img src="balmore.gif" width="400" height="200"/>
-   <img src="balmore.gif"width="400" height="200"/>
+
 
      <video width="600" height="400" controls>
     <source src="ganado.MP4" type="video/mp4">
